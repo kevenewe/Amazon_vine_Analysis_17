@@ -18,11 +18,13 @@ The data was exported to a database in PGADMIN that was not connected to AWS to 
 
 Vine Reviews: 587
 
-      ![Total Vine Reviews](https://user-images.githubusercontent.com/117044267/226126430-cdacbe65-64cb-470f-8075-6a66fe3928ca.JPG)
-
+      Total Vine Reviews.JPG
+      
  None Vine Reviews: 55379
  
-      ![Total Non Vine Reviews](https://user-images.githubusercontent.com/117044267/226129046-60189a99-6567-4dad-94b6-de10d0eef5db.JPG)
+ 
+      Total Non Vine Reviews.JPG
+      
 
 
 Total number of 5-star Vinew Reviews: 247
