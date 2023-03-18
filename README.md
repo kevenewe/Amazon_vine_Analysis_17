@@ -2,7 +2,8 @@
 
 ## Analysis Overview
 
-This project analyzed the Amazon Vine program, to determine iif there is any bias toward favorable reviews from Vine members in the dataset. The dataset selected for review was the US Camera found at: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Camera_v1_00.tsv.gz
+This project analyzed the Amazon Vine program, to determine iif there is any bias toward favorable reviews from Vine members in the dataset. The dataset selected for review was the US Camera found at: 
+https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Camera_v1_00.tsv.gz
 
 The analysis used PySpark to perform the ETL (Extract, Transform and Load) process and connect an instance of AWS RDS to load the transormed data into pgAdmin. 
 
