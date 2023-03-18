@@ -40,7 +40,7 @@ Number of 5-Star non-Vine Reviews: 24825
       ![Tatal 5 star review](https://user-images.githubusercontent.com/117044267/226129592-e6c18aa6-c06a-412c-bb12-43eebdb7a736.JPG)
       
 The total number of reviews vine and none vine was 55,966. the Vine reviews made a small percentage of these reviews at 1.05 percent. The percentage of 5 star review was 42.08% for Vine reviewers and 44.83% for none vine reviewers.  This shows that there is not a bias in the vine reviews based on the number of 5 star reiews received.  
-
+ 
 
 
 
